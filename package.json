@@ -2,6 +2,10 @@
   "name": "oceanic-next-deep",
   "displayName": "Oceanic Next Deep",
   "description": "\"Oceanic Next\" color theme with changed background color.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sattellite/vscode-oceanicnextdeep"
+  },
   "version": "1.0.0",
   "publisher": "sattellite",
   "engines": {
