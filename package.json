@@ -1,20 +1,20 @@
 {
-  "name": "oceanic-next",
-  "displayName": "Oceanic Next",
-  "version": "0.0.3",
+  "name": "oceanic-next-deep",
+  "displayName": "Oceanic Next Deep",
+  "description": "\"Oceanic Next\" color theme with changed background color.",
+  "version": "1.0.0",
+  "publisher": "sattellite",
   "engines": {
-    "vscode": "^1.19.0"
+    "vscode": "^1.20.0"
   },
-  "publisher": "mhartington",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mhartington/vscode-oceanicnext"
-  },
+  "categories": ["Themes"],
   "contributes": {
-    "themes": [{
-      "label": "Oceanic Next",
-      "uiTheme": "vs-dark",
-      "path": "./themes/Oceanic Next-color-theme.json"
-    }]
+    "themes": [
+      {
+        "label": "Oceanic Next Deep",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Oceanic Next Deep-color-theme.json"
+      }
+    ]
   }
 }
