@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/sattellite/vscode-oceanicnextdeep"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "sattellite",
   "engines": {
     "vscode": "^1.20.0"
