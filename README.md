@@ -2,3 +2,5 @@ This color scheme is original "[Oceanic Next](https://labs.voronianski.com/ocean
 
 
 Started as fork of [Oceanic Next for VS Code](https://marketplace.visualstudio.com/items?itemName=mhartington.Oceanic-Next) by [Mike Hartington](https://github.com/mhartington)
+
+![Screenshot of theme](./screenshot.png)
